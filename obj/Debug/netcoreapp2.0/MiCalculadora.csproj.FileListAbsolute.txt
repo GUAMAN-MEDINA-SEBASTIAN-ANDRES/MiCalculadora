@@ -1,0 +1,11 @@
+C:\Users\VICTOR\MiCalculadora\bin\Debug\netcoreapp2.0\MiCalculadora.deps.json
+C:\Users\VICTOR\MiCalculadora\bin\Debug\netcoreapp2.0\MiCalculadora.runtimeconfig.json
+C:\Users\VICTOR\MiCalculadora\bin\Debug\netcoreapp2.0\MiCalculadora.runtimeconfig.dev.json
+C:\Users\VICTOR\MiCalculadora\bin\Debug\netcoreapp2.0\MiCalculadora.dll
+C:\Users\VICTOR\MiCalculadora\bin\Debug\netcoreapp2.0\MiCalculadora.pdb
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.AssemblyInfo.cs
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.dll
+C:\Users\VICTOR\MiCalculadora\obj\Debug\netcoreapp2.0\MiCalculadora.pdb
